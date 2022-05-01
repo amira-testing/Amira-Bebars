@@ -1,0 +1,36 @@
+Useing Seleniun webdriver framework I managed to write automation code to simulate a user checking out a product through SauceDemo website.
+
+# Tech:
+
+- Java 
+- Maven 
+- TestNG 
+- DDT
+- POM Design Pattern
+- Cucumber
+# Deport Generated using default cucumber report
+
+# Requirements:
+
+*intellij(install Testng from marketPlace)
+*JDK15
+*let POM file install the dependencies
+
+# Steps:
+
+*Clone the project 
+*We have three ways to run the project
+1-open testng, click right and run.
+2-Run from testRunner
+2-Run using cmd
+ 2.1-open cmd 
+ 2.2-open project directory (using cd "project path")
+ 2.3-Type mvn clean install
+
+#steps to cover Automated tests for facebook registration and login scenarios
+1- first login with parent facebook account
+2- optional to generate APP or not(implemented but commented in feature file)
+3- register with test facebook account
+4- login with new created test facebook account
+
+Thanks

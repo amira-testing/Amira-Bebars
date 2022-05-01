@@ -1,0 +1,11 @@
+com\facebook\driver\WebDriverSingleton.class
+com\facebook\tests\LoginAndRegister\CommonStepDef.class
+com\facebook\tests\BaseTest.class
+com\facebook\tests\LoginAndRegister\TestRunner.class
+com\facebook\pages\facebook\Login.class
+com\facebook\pages\facebook\LoginWithTestFaceBookUser.class
+com\facebook\pages\facebook\RegisterWithTestFaceBookUser.class
+com\facebook\browser\Browser.class
+com\facebook\tests\HooksHandler.class
+com\facebook\pages\BasePage.class
+com\facebook\pages\facebook\CreateFaceBookApp.class

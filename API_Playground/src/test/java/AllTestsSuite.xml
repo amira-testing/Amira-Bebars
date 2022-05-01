@@ -1,0 +1,14 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Positive Scenarios" >
+    <test name="All Tests Happy Scenarios ">
+
+        <classes>
+            <class name="Tests.ProductsTests"></class>
+            <class name="Tests.ServicesTests"></class>
+            <class name="Tests.CategoriesTests"></class>
+            <class name="Tests.StoresTests"></class>
+            <class name="Tests.UtilitiesTests"></class>
+        </classes>
+    </test>
+</suite>
